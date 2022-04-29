@@ -29,4 +29,6 @@ replace google.golang.org/grpc => google.golang.org/grpc v1.33.2
 
 replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.2-alpha.regen.4
 
-replace github.com/cosmos/cosmos-sdk => github.com/osmosis-labs/cosmos-sdk v0.42.10-0.20210806040506-92afdc8963ca
+replace github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.42.10-0.20210806040506-92afdc8963ca
+
+replace github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.12-0.20220427171412-e48a6fe03df8
