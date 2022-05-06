@@ -121,7 +121,12 @@ require (
 	nhooyr.io/websocket v1.8.6 // indirect
 )
 
-require github.com/dgraph-io/badger/v2 v2.2007.3 // indirect
+require (
+	github.com/cosmos/cosmos-proto v1.0.0-alpha7 // indirect
+	github.com/dgraph-io/badger/v2 v2.2007.3 // indirect
+	github.com/figment-networks/extractor-cosmos v0.1.0 // indirect
+	github.com/figment-networks/proto-cosmos v0.1.0 // indirect
+)
 
 replace (
 	// Our cosmos-sdk branch is:  https://github.com/osmosis-labs/cosmos-sdk  v0.44.3x-osmo-v5
@@ -134,7 +139,7 @@ replace (
 	// fix builds with rocksdb
 	github.com/tecbot/gorocksdb => github.com/cosmos/gorocksdb v1.2.0
 	// use osmosis-patched tendermint
-	github.com/tendermint/tendermint => github.com/osmosis-labs/tendermint v0.34.12-0.20220109173307-59a781894ea7
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.16-0.20220506013808-9713b968f366
 	// Use grpc compatible with cosmos-flavored protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
