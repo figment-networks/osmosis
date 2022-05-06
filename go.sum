@@ -289,8 +289,8 @@ github.com/figment-networks/extractor-cosmos v0.1.0 h1:PgOoO9/gNS/gFjof7FMl8wfW4
 github.com/figment-networks/extractor-cosmos v0.1.0/go.mod h1:Fq0U8wYrSd5MixC/64ncCg3gNXcFe7RbfcOhSHYXCIQ=
 github.com/figment-networks/proto-cosmos v0.1.0 h1:WMlKZ5QJPDQYvB9tvf7rqvv5YdnJKZ+hhcQFhzlMOfc=
 github.com/figment-networks/proto-cosmos v0.1.0/go.mod h1:bBynLkXMq/hMdsgNg0yEaksxSJkIk1hzPNTWBdetk5I=
-github.com/figment-networks/tendermint v0.34.16-0.20220506013808-9713b968f366 h1:/xH/6f/JRycfFLUz8pi9I+i8MmdHOqbLCXC7x1GVduY=
-github.com/figment-networks/tendermint v0.34.16-0.20220506013808-9713b968f366/go.mod h1:03tlpR6846YUSBvP7XgiSypIVcJQZfyW3oRqCfxydOQ=
+github.com/figment-networks/tendermint v0.34.16-0.20220506014911-324d5601660c h1:aOrHx8b0LdcsnLUCHot8F4g6ZYDdjHvCY75FK/lL5zU=
+github.com/figment-networks/tendermint v0.34.16-0.20220506014911-324d5601660c/go.mod h1:03tlpR6846YUSBvP7XgiSypIVcJQZfyW3oRqCfxydOQ=
 github.com/fjl/memsize v0.0.0-20180418122429-ca190fb6ffbc/go.mod h1:VvhXpOYNQvB+uIk2RvXzuaQtkQJzzIx6lSBe1xv7hi0=
 github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568/go.mod h1:xEzjJPgXI435gkrCt3MPfRiAkVrwSbHsst4LCFVfpJc=
 github.com/fogleman/gg v1.2.1-0.20190220221249-0403632d5b90/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
