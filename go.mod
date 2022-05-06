@@ -29,6 +29,12 @@ require (
 )
 
 require (
+	github.com/cosmos/cosmos-proto v1.0.0-alpha7 // indirect
+	github.com/figment-networks/extractor-cosmos v0.1.0 // indirect
+	github.com/figment-networks/proto-cosmos v0.1.0 // indirect
+)
+
+require (
 	filippo.io/edwards25519 v1.0.0-beta.2 // indirect
 	github.com/99designs/keyring v1.1.6 // indirect
 	github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d // indirect
@@ -138,6 +144,8 @@ replace (
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	// enable building wihh rocksdb
 	github.com/tecbot/gorocksdb => github.com/cosmos/gorocksdb v1.2.0
+
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.16-0.20220506012550-6b5e79e4cdc5
 	// use grpc compatible with cosmos protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
