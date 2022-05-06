@@ -145,7 +145,7 @@ replace (
 	// enable building wihh rocksdb
 	github.com/tecbot/gorocksdb => github.com/cosmos/gorocksdb v1.2.0
 
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.16-0.20220506012550-6b5e79e4cdc5
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.16-0.20220506203904-64e2766d8c6c
 	// use grpc compatible with cosmos protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
