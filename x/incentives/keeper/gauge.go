@@ -7,10 +7,10 @@ import (
 	"time"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
+	epochtypes "github.com/figment-networks/osmosis/v8/x/epochs/types"
+	"github.com/figment-networks/osmosis/v8/x/incentives/types"
+	lockuptypes "github.com/figment-networks/osmosis/v8/x/lockup/types"
 	"github.com/gogo/protobuf/proto"
-	epochtypes "github.com/osmosis-labs/osmosis/v7/x/epochs/types"
-	"github.com/osmosis-labs/osmosis/v7/x/incentives/types"
-	lockuptypes "github.com/osmosis-labs/osmosis/v7/x/lockup/types"
 	db "github.com/tendermint/tm-db"
 )
 

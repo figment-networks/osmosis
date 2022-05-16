@@ -8,9 +8,9 @@ import (
 
 	clitestutil "github.com/cosmos/cosmos-sdk/testutil/cli"
 	"github.com/cosmos/cosmos-sdk/testutil/network"
-	"github.com/osmosis-labs/osmosis/v7/app"
-	"github.com/osmosis-labs/osmosis/v7/x/incentives/client/cli"
-	"github.com/osmosis-labs/osmosis/v7/x/incentives/types"
+	"github.com/figment-networks/osmosis/v8/app"
+	"github.com/figment-networks/osmosis/v8/x/incentives/client/cli"
+	"github.com/figment-networks/osmosis/v8/x/incentives/types"
 )
 
 type IntegrationTestSuite struct {

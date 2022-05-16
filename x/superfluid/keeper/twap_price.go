@@ -3,9 +3,9 @@ package keeper
 import (
 	"github.com/cosmos/cosmos-sdk/store/prefix"
 	sdk "github.com/cosmos/cosmos-sdk/types"
+	gammtypes "github.com/figment-networks/osmosis/v8/x/gamm/types"
+	"github.com/figment-networks/osmosis/v8/x/superfluid/types"
 	"github.com/gogo/protobuf/proto"
-	gammtypes "github.com/osmosis-labs/osmosis/v7/x/gamm/types"
-	"github.com/osmosis-labs/osmosis/v7/x/superfluid/types"
 )
 
 // This function calculates the osmo equivalent worth of an LP share.

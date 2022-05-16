@@ -6,7 +6,7 @@ import (
 	"time"
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
-	"github.com/osmosis-labs/osmosis/v7/x/lockup/keeper"
+	"github.com/figment-networks/osmosis/v8/x/lockup/keeper"
 )
 
 func (suite *KeeperTestSuite) TestLockupMergeMigration() {

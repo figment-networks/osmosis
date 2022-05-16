@@ -16,8 +16,8 @@ import (
 
 	sdk "github.com/cosmos/cosmos-sdk/types"
 	sdkerrors "github.com/cosmos/cosmos-sdk/types/errors"
-	"github.com/osmosis-labs/osmosis/v7/x/gamm/pool-models/balancer"
-	"github.com/osmosis-labs/osmosis/v7/x/gamm/types"
+	"github.com/figment-networks/osmosis/v8/x/gamm/pool-models/balancer"
+	"github.com/figment-networks/osmosis/v8/x/gamm/types"
 )
 
 var (
