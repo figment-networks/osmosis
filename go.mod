@@ -271,7 +271,7 @@ replace (
 	// branch: v0.22.0-osmo-v7, current tag: v0.22.0-osmo-v7.2.0
 	github.com/CosmWasm/wasmd => github.com/osmosis-labs/wasmd v0.22.0-osmo-v7.2
 	// Our cosmos-sdk branch is:  https://github.com/figment-networks/cosmos-sdk firehose-osmosis-v8.0.0
-	github.com/cosmos/cosmos-sdk => github.com/osmosis-labs/cosmos-sdk v0.45.1-0.20220502203419-5831ca02b81f
+	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.45.1-0.20220604182210-22518903e3e2
 	// Use Osmosis fast iavl
 	github.com/cosmos/iavl => github.com/osmosis-labs/iavl v0.17.3-osmo-v7
 	// Use osmosis fork of ibc-go
