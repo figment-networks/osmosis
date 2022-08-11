@@ -139,7 +139,7 @@ replace (
 	// fix builds with rocksdb
 	github.com/tecbot/gorocksdb => github.com/cosmos/gorocksdb v1.2.0
 	// use osmosis-patched tendermint
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.16-0.20220506014911-324d5601660c
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.15-fh.2
 	// Use grpc compatible with cosmos-flavored protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
