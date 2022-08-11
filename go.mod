@@ -116,7 +116,7 @@ replace (
 	//github.com/cosmos/cosmos-sdk => github.com/osmosis-labs/cosmos-sdk v0.42.10-0.20211028213231-ce6f14aaa6a0
 	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.42.10-0.20220516155941-cbf5d8aff2c3
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-fh
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.14-fh.2
 	github.com/tendermint/tm-db => github.com/osmosis-labs/tm-db v0.6.5-0.20210911033928-ba9154613417
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 
