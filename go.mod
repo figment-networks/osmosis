@@ -31,4 +31,4 @@ replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.2-alp
 
 replace github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.42.10-0.20220513012125-c0c03aebe6b3
 
-replace github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.11-fh
+replace github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.11-fh.2
