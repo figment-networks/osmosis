@@ -262,7 +262,7 @@ replace (
 	// enable building wihh rocksdb
 	github.com/tecbot/gorocksdb => github.com/cosmos/gorocksdb v1.2.0
 	// use instrumented tendermint version
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.20-0.20220505231026-6668f18e3897
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.19-fh.2
 	// use grpc compatible with cosmos protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
