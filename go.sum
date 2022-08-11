@@ -384,8 +384,8 @@ github.com/figment-networks/extractor-cosmos v0.1.0 h1:PgOoO9/gNS/gFjof7FMl8wfW4
 github.com/figment-networks/extractor-cosmos v0.1.0/go.mod h1:Fq0U8wYrSd5MixC/64ncCg3gNXcFe7RbfcOhSHYXCIQ=
 github.com/figment-networks/proto-cosmos v0.1.0 h1:WMlKZ5QJPDQYvB9tvf7rqvv5YdnJKZ+hhcQFhzlMOfc=
 github.com/figment-networks/proto-cosmos v0.1.0/go.mod h1:bBynLkXMq/hMdsgNg0yEaksxSJkIk1hzPNTWBdetk5I=
-github.com/figment-networks/tendermint v0.34.20-0.20220505231026-6668f18e3897 h1:1gP3V+3mQiymb48UdSgB2Cp/a0N/yXsp7HAqnHQSSq0=
-github.com/figment-networks/tendermint v0.34.20-0.20220505231026-6668f18e3897/go.mod h1:Sl43Frvwk+2zKPAf/Cu3kJmhbsJUKwwInERUXnaMg4A=
+github.com/figment-networks/tendermint v0.34.19-fh.2 h1:BwLaLqaKvAl8mFQFGYqN8G1El83Ahu9Ifsv4e996k2A=
+github.com/figment-networks/tendermint v0.34.19-fh.2/go.mod h1:Sl43Frvwk+2zKPAf/Cu3kJmhbsJUKwwInERUXnaMg4A=
 github.com/firefart/nonamedreturns v1.0.1 h1:fSvcq6ZpK/uBAgJEGMvzErlzyM4NELLqqdTofVjVNag=
 github.com/firefart/nonamedreturns v1.0.1/go.mod h1:D3dpIBojGGNh5UfElmwPu73SwDCm+VKhHYqwlNOk2uQ=
 github.com/fjl/memsize v0.0.0-20180418122429-ca190fb6ffbc/go.mod h1:VvhXpOYNQvB+uIk2RvXzuaQtkQJzzIx6lSBe1xv7hi0=
