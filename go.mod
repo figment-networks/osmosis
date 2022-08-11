@@ -283,7 +283,7 @@ replace (
 	// use cosmos-compatible protobufs
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	// instrumented tendermint fork
-	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.19-fh
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.19-fh.2
 	// use grpc compatible with cosmos protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
