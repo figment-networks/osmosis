@@ -32,6 +32,12 @@ require (
 )
 
 require (
+	github.com/cosmos/cosmos-proto v1.0.0-alpha7 // indirect
+	github.com/figment-networks/extractor-cosmos v0.1.0 // indirect
+	github.com/figment-networks/proto-cosmos v0.1.0 // indirect
+)
+
+require (
 	4d63.com/gochecknoglobals v0.1.0 // indirect
 	filippo.io/edwards25519 v1.0.0-beta.2 // indirect
 	github.com/99designs/go-keychain v0.0.0-20191008050251-8e49817e8af4 // indirect
@@ -271,11 +277,13 @@ replace (
 	// branch: v0.27.0.rc3-osmo, current tag: v0.27.0.rc3-osmo
 	github.com/CosmWasm/wasmd => github.com/osmosis-labs/wasmd v0.27.0-rc2.0.20220517191021-59051aa18d58
 	// Our cosmos-sdk branch is:  https://github.com/osmosis-labs/cosmos-sdk v0.45.0x-osmo-v9
-	github.com/cosmos/cosmos-sdk => github.com/osmosis-labs/cosmos-sdk v0.45.1-0.20220623195843-6209434a1de9
+	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.45.1-0.20220812193543-26147de4e649
 	// Use Osmosis fast iavl
 	github.com/cosmos/iavl => github.com/osmosis-labs/iavl v0.17.3-osmo-v7
 	// use cosmos-compatible protobufs
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
+	// instrumented Tendermint fork
+	github.com/tendermint/tendermint => github.com/figment-networks/tendermint v0.34.19-fh.2
 	// use grpc compatible with cosmos protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
