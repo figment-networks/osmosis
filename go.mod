@@ -299,9 +299,7 @@ replace (
 	github.com/confio/ics23/go => github.com/cosmos/cosmos-sdk/ics23/go v0.8.0
 	// Our cosmos-sdk branch is:  https://github.com/osmosis-labs/cosmos-sdk/tree/v12.x
 	// last commit: https://github.com/osmosis-labs/cosmos-sdk/commit/32fd2420e2f0958a0d2a41af18e8f5661f69a114
-	github.com/cosmos/cosmos-sdk => github.com/figment-networks/cosmos-sdk v0.45.1-0.20220930153610-c3fe65747d0f
-	// Use Osmosis fast iavl
-	github.com/cosmos/iavl => github.com/osmosis-labs/iavl v0.17.3-osmo-v7
+	github.com/cosmos/cosmos-sdk => github.com/streamingfast/cosmos-sdk v0.0.0-20221121162225-a39a5b74fc38
 	// use cosmos-compatible protobufs
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	//instrumented tendemrint fork
