@@ -316,6 +316,10 @@ github.com/fatih/structtag v1.2.0 h1:/OdNE99OxoI/PqaW/SuSK9uxxT3f/tcSZgon/ssNSx4
 github.com/fatih/structtag v1.2.0/go.mod h1:mBJUNpUnHmRKrKlQQlmCrh5PuhftFbNv8Ys4/aAZl94=
 github.com/felixge/httpsnoop v1.0.1 h1:lvB5Jl89CsZtGIWuTcDM1E/vkVs49/Ml7JJe07l8SPQ=
 github.com/felixge/httpsnoop v1.0.1/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
+github.com/figment-networks/extractor-cosmos v0.1.0 h1:PgOoO9/gNS/gFjof7FMl8wfW4LHeLLkdPYkp7oE8RvM=
+github.com/figment-networks/extractor-cosmos v0.1.0/go.mod h1:Fq0U8wYrSd5MixC/64ncCg3gNXcFe7RbfcOhSHYXCIQ=
+github.com/figment-networks/proto-cosmos v0.1.0 h1:WMlKZ5QJPDQYvB9tvf7rqvv5YdnJKZ+hhcQFhzlMOfc=
+github.com/figment-networks/proto-cosmos v0.1.0/go.mod h1:bBynLkXMq/hMdsgNg0yEaksxSJkIk1hzPNTWBdetk5I=
 github.com/firefart/nonamedreturns v1.0.4 h1:abzI1p7mAEPYuR4A+VLKn4eNDOycjYo2phmY9sfv40Y=
 github.com/firefart/nonamedreturns v1.0.4/go.mod h1:TDhe/tjI1BXo48CmYbUduTV7BdIga8MAO/xbKdcVsGI=
 github.com/fjl/memsize v0.0.0-20180418122429-ca190fb6ffbc/go.mod h1:VvhXpOYNQvB+uIk2RvXzuaQtkQJzzIx6lSBe1xv7hi0=
@@ -544,6 +548,8 @@ github.com/gostaticanalysis/nilerr v0.1.1/go.mod h1:wZYb6YI5YAxxq0i1+VJbY0s2YONW
 github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
 github.com/gostaticanalysis/testutil v0.4.0 h1:nhdCmubdmDF6VEatUNjgUZBJKWRqugoISdUv3PPQgHY=
 github.com/graph-gophers/graphql-go v0.0.0-20191115155744-f33e81362277/go.mod h1:9CQHMSxwO4MprSdzoIEobiHpoLtHm77vfxsvsIN5Vuc=
+github.com/graphprotocol/cosmos-sdk v0.21.1-0.20221205171628-60eed73cc028 h1:Ki8bM+w9yaG7OjP/K+ON/gW343QqQekyQUNEChPLUoY=
+github.com/graphprotocol/cosmos-sdk v0.21.1-0.20221205171628-60eed73cc028/go.mod h1:aheAcw1LNdg8Txss9xNVB7y/p5ZTpXjjlbCnnZPNhwI=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-middleware v1.2.2/go.mod h1:EaizFBKfUKtMIF5iaDEhniwNedqGo9FuLFzppDr3uwI=
 github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 h1:+9834+KizmvFV7pXQGSXQTsaWhq2GjuNUt0aUU0YBYw=
@@ -846,8 +852,6 @@ github.com/openzipkin/zipkin-go v0.2.2/go.mod h1:NaW6tEwdmWMaCDZzg8sh+IBNOxHMPnh
 github.com/ory/dockertest v3.3.5+incompatible h1:iLLK6SQwIhcbrG783Dghaaa3WPzGc+4Emza6EbVUUGA=
 github.com/ory/dockertest/v3 v3.9.1 h1:v4dkG+dlu76goxMiTT2j8zV7s4oPPEppKT8K8p2f1kY=
 github.com/ory/dockertest/v3 v3.9.1/go.mod h1:42Ir9hmvaAPm0Mgibk6mBPi7SFvTXxEcnztDYOJ//uM=
-github.com/osmosis-labs/cosmos-sdk v0.45.1-0.20221118211718-545aed73e94e h1:A3byMZpvq21iI7yWJUNdHw0nf8jVAbVUsWY9twnXSXE=
-github.com/osmosis-labs/cosmos-sdk v0.45.1-0.20221118211718-545aed73e94e/go.mod h1:rud0OaBIuq3+qOqtwT4SR7Q7iSzRp7w41fjninTjfnQ=
 github.com/osmosis-labs/go-mutesting v0.0.0-20220811235203-65a53b4ea8e3 h1:/imbKy8s1I+z7wx4FbRHOXK2v82xesUCz2EPUqfBDIg=
 github.com/osmosis-labs/go-mutesting v0.0.0-20220811235203-65a53b4ea8e3/go.mod h1:lV6KnqXYD/ayTe7310MHtM3I2q8Z6bBfMAi+bhwPYtI=
 github.com/osmosis-labs/wasmd v0.29.2-osmo-v13 h1:HvxAks1ctB3nBx1cXqcmfA0g0BKe7Og77OA2j2rxaJk=
@@ -1050,6 +1054,8 @@ github.com/steakknife/hamming v0.0.0-20180906055917-c99c65617cd3/go.mod h1:hpGUW
 github.com/streadway/amqp v0.0.0-20190404075320-75d898a42a94/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
 github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
 github.com/streadway/handy v0.0.0-20190108123426-d5acb3125c2a/go.mod h1:qNTQ5P5JnDBl6z3cMAg/SywNDC5ABu5ApDIw6lUbRmI=
+github.com/streamingfast/tendermint v0.34.22-fh.2 h1:Mt4p+aKJnPqyszuKsi2BfnLbbFZUs3ZLjkH/24OqpEA=
+github.com/streamingfast/tendermint v0.34.22-fh.2/go.mod h1:jnLubde7komLTgurKT2OIxI74ExjzNB4WTR/yDoNV04=
 github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.1.1/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
 github.com/stretchr/objx v0.4.0/go.mod h1:YvHI0jy2hoMjB+UWwv71VJQ9isScKT/TqJzVSSt89Yw=
@@ -1079,8 +1085,6 @@ github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15 h1:hqAk8riJvK4RM
 github.com/tendermint/crypto v0.0.0-20191022145703-50d29ede1e15/go.mod h1:z4YtwM70uOnk8h0pjJYlj3zdYwi9l03By6iAIF5j/Pk=
 github.com/tendermint/go-amino v0.16.0 h1:GyhmgQKvqF82e2oZeuMSp9JTN0N09emoSZlb2lyGa2E=
 github.com/tendermint/go-amino v0.16.0/go.mod h1:TQU0M1i/ImAo+tYpZi73AU3V/dKeCoMC9Sphe2ZwGME=
-github.com/tendermint/tendermint v0.34.22 h1:XMhtC8s8QqJO4l/dn+TkQvevTRSow3Vixjclr41o+2Q=
-github.com/tendermint/tendermint v0.34.22/go.mod h1:YpP5vBEAKUT4g6oyfjKgFeZmdB/GjkJAxfF+cgmJg6Y=
 github.com/tendermint/tm-db v0.6.8-0.20220506192307-f628bb5dc95b h1:Y3ZPG6gdDCAV2sdGkD759ji/09GzaNu1X3qKTmZIbTo=
 github.com/tendermint/tm-db v0.6.8-0.20220506192307-f628bb5dc95b/go.mod h1:ADqbS9NOSnBRK9R2RtYC61CdsHmVMD/yXAzcMuPexbU=
 github.com/tenntenn/modver v1.0.1 h1:2klLppGhDgzJrScMpkj9Ujy3rXPUspSjAcev9tSEBgA=
