@@ -8,6 +8,8 @@ require (
 	github.com/cosmos/cosmos-sdk v0.46.7
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/ibc-go/v4 v4.2.0
+	github.com/figment-networks/extractor-cosmos v0.1.0 // indirect
+	github.com/figment-networks/proto-cosmos v0.1.0 // indirect
 	github.com/gogo/protobuf v1.3.3
 	github.com/golang/mock v1.6.0
 	github.com/golang/protobuf v1.5.2
@@ -310,11 +312,11 @@ replace (
 	github.com/confio/ics23/go => github.com/cosmos/cosmos-sdk/ics23/go v0.8.0
 	// Our cosmos-sdk branch is:  https://github.com/osmosis-labs/cosmos-sdk, current branch: v13.x. Direct commit link: https://github.com/osmosis-labs/cosmos-sdk/commit/8757a61551aa1ea993c85a523e18094ab555b1d7
 	// tag: https://github.com/osmosis-labs/cosmos-sdk/releases/tag/sdk-v13.0.0-rc2
-	github.com/cosmos/cosmos-sdk => github.com/osmosis-labs/cosmos-sdk v0.45.1-0.20221118211718-545aed73e94e
+	github.com/cosmos/cosmos-sdk => github.com/graphprotocol/cosmos-sdk v0.21.1-0.20221205171628-60eed73cc028
 	// use cosmos-compatible protobufs
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	// Informal Tendermint fork
-	github.com/tendermint/tendermint => github.com/informalsystems/tendermint v0.34.24
+	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.24-fh
 	// use grpc compatible with cosmos protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
