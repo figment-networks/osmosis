@@ -17,7 +17,7 @@ jobs:
     steps:
       -
         name: Check out repository code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       -
         name: Setup Golang
         uses: actions/setup-go@v2.1.4
@@ -46,7 +46,7 @@ jobs:
       -
         name: Run unit tests
         run: make test-unit
-  
+
   e2e:
     runs-on: ubuntu-latest
     timeout-minutes: 25
@@ -58,7 +58,7 @@ jobs:
           go-version: 1.19
       -
         name: Check out repository code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       -
         name: Get git diff
         uses: technote-space/get-diff-action@v6.0.1
@@ -114,7 +114,7 @@ jobs:
         name: Test e2e and Upgrade
         run: make test-e2e-ci
         if: env.GIT_DIFF
-      - 
+      -
         name: Dump docker logs on failure
         if: failure()
         uses: jwalton/gh-docker-logs@v2
@@ -123,7 +123,7 @@ jobs:
       - name: Tar logs
         if: failure()
         run: tar cvzf ./logs.tgz ./logs
-      - 
+      -
         name: Upload logs to GitHub
         uses: actions/upload-artifact@v2
         with:
