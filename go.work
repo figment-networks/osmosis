@@ -7,3 +7,5 @@ use ./osmoutils
 use ./x/ibc-hooks
 
 use .
+
+replace github.com/cosmos/cosmos-sdk => github.com/graphprotocol/cosmos-sdk v0.45.0-rc1.0.20230421233815-7308a437d6de
