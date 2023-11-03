@@ -67,12 +67,12 @@ require (
 	github.com/decred/dcrd/dcrec/secp256k1/v4 v4.0.1 // indirect
 	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/felixge/httpsnoop v1.0.2 // indirect
-	github.com/figment-networks/extractor-cosmos v0.1.0 // indirect
-	github.com/figment-networks/proto-cosmos v0.1.0 // indirect
 	github.com/gabriel-vasile/mimetype v1.4.2 // indirect
 	github.com/go-playground/universal-translator v0.18.1 // indirect
 	github.com/gogo/gateway v1.1.0 // indirect
 	github.com/google/btree v1.1.2 // indirect
+	github.com/graphprotocol/extractor-cosmos v0.1.1 // indirect
+	github.com/graphprotocol/proto-cosmos v0.1.3 // indirect
 	github.com/kkHAIKE/contextcheck v1.1.4 // indirect
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/maratori/testableexamples v1.0.0 // indirect
@@ -84,6 +84,7 @@ require (
 	github.com/sashamelentyev/usestdlibvars v1.24.0 // indirect
 	github.com/sivchari/nosnakecase v1.7.0 // indirect
 	github.com/sourcegraph/conc v0.3.0 // indirect
+	github.com/streamingfast/pbgo v0.0.6-0.20221020131607-255008258d28 // indirect
 	github.com/t-yuki/gocover-cobertura v0.0.0-20180217150009-aaee18c8195c // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.0 // indirect
@@ -347,7 +348,7 @@ replace (
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 
 	// Informal Tendermint fork
-	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.24-fh
+	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.24-fh-bytes
 	// use grpc compatible with cosmos protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )

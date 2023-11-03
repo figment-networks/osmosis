@@ -14,4 +14,4 @@ use .
 
 use ./x/epochs
 
-replace github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.24-fh
+replace github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.24-fh-debug
