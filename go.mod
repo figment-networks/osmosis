@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/CosmWasm/wasmd v0.30.0
-	github.com/cosmos/cosmos-proto v1.0.0-alpha8
+	github.com/cosmos/cosmos-proto v1.0.0-beta.3
 	github.com/cosmos/cosmos-sdk v0.46.10
 	github.com/cosmos/go-bip39 v1.0.0
 	github.com/cosmos/ibc-go/v4 v4.3.1
@@ -30,7 +30,7 @@ require (
 	github.com/strangelove-ventures/async-icq/v4 v4.0.0-rc0
 	github.com/strangelove-ventures/packet-forward-middleware/v4 v4.0.4
 	github.com/stretchr/testify v1.8.2
-	github.com/tendermint/tendermint v0.34.24
+	github.com/tendermint/tendermint v0.37.0-rc1
 	github.com/tendermint/tm-db v0.6.8-0.20220506192307-f628bb5dc95b
 	github.com/tidwall/btree v1.6.0
 	go.uber.org/multierr v1.10.0
@@ -47,15 +47,18 @@ require (
 	github.com/Djarvur/go-err113 v0.1.0 // indirect
 	github.com/alingse/asasalint v0.0.11 // indirect
 	github.com/benbjohnson/clock v1.3.0 // indirect
+	github.com/cosmos/gogogateway v1.2.0 // indirect
 	github.com/cosmos/gogoproto v1.4.3 // indirect
 	github.com/cosmos/iavl v0.19.4 // indirect
 	github.com/creachadair/taskgroup v0.3.2 // indirect
 	github.com/curioswitch/go-reassign v0.2.0 // indirect
 	github.com/docker/distribution v2.8.1+incompatible // indirect
 	github.com/felixge/httpsnoop v1.0.2 // indirect
-	github.com/figment-networks/extractor-cosmos v0.1.0 // indirect
-	github.com/figment-networks/proto-cosmos v0.1.0 // indirect
+	github.com/gogo/googleapis v1.4.1-0.20201022092350-68b0159b7869 // indirect
 	github.com/google/btree v1.1.2 // indirect
+	github.com/graphprotocol/extractor-cosmos v0.1.1 // indirect
+	github.com/graphprotocol/proto-cosmos v0.1.4 // indirect
+	github.com/huandu/skiplist v1.2.0 // indirect
 	github.com/junk1tm/musttag v0.4.5 // indirect
 	github.com/kkHAIKE/contextcheck v1.1.3 // indirect
 	github.com/maratori/testableexamples v1.0.0 // indirect
@@ -65,6 +68,7 @@ require (
 	github.com/sashamelentyev/interfacebloat v1.1.0 // indirect
 	github.com/sashamelentyev/usestdlibvars v1.23.0 // indirect
 	github.com/sivchari/nosnakecase v1.7.0 // indirect
+	github.com/streamingfast/pbgo v0.0.6-0.20221020131607-255008258d28 // indirect
 	github.com/t-yuki/gocover-cobertura v0.0.0-20180217150009-aaee18c8195c // indirect
 	github.com/timonwong/loggercheck v0.9.3 // indirect
 	github.com/zimmski/go-mutesting v0.0.0-20210610104036-6d9217011a00 // indirect
@@ -150,7 +154,6 @@ require (
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
 	github.com/gofrs/flock v0.8.1 // indirect
-	github.com/gogo/gateway v1.1.0 // indirect
 	github.com/golang/glog v1.0.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/golang/snappy v0.0.4 // indirect
@@ -317,11 +320,12 @@ replace (
 	// dragonberry
 	github.com/confio/ics23/go => github.com/cosmos/cosmos-sdk/ics23/go v0.8.0
 	// Our cosmos-sdk branch is:  https://github.com/osmosis-labs/cosmos-sdk, current branch: v15.x. Direct commit link: https://github.com/osmosis-labs/cosmos-sdk/commit/931007612436a93dcee45314c12a637876ec29f5
-	github.com/cosmos/cosmos-sdk => github.com/osmosis-labs/cosmos-sdk v0.45.1-0.20230627154005-cbb746abb7f1
+	// github.com/cosmos/cosmos-sdk => github.com/osmosis-labs/cosmos-sdk v0.45.1-0.20230627154005-cbb746abb7f1
+	github.com/cosmos/cosmos-sdk => github.com/graphprotocol/cosmos-sdk v0.45.0-rc1.0.20231212213615-1fc1bed9db6c
 	// use cosmos-compatible protobufs
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	// Informal Tendermint fork
-	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.24-fh
+	github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.24-fh-test
 	// use grpc compatible with cosmos protobufs
 	google.golang.org/grpc => google.golang.org/grpc v1.33.2
 )
