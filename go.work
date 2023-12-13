@@ -16,4 +16,4 @@ use ./x/epochs
 
 replace github.com/tendermint/tendermint => github.com/graphprotocol/tendermint v0.34.24-fh
 
-// replace github.com/cosmos/cosmos-sdk => github.com/graphprotocol/cosmos-sdk v0.45.0-rc1.0.20231213155130-73398cf27436
+replace github.com/cosmos/cosmos-sdk => github.com/graphprotocol/cosmos-sdk v0.45.0-rc1.0.20231213161221-5fa9c197962e
