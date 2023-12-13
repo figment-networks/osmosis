@@ -618,14 +618,12 @@ github.com/gostaticanalysis/nilerr v0.1.1/go.mod h1:wZYb6YI5YAxxq0i1+VJbY0s2YONW
 github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
 github.com/gostaticanalysis/testutil v0.4.0 h1:nhdCmubdmDF6VEatUNjgUZBJKWRqugoISdUv3PPQgHY=
 github.com/graph-gophers/graphql-go v1.3.0/go.mod h1:9CQHMSxwO4MprSdzoIEobiHpoLtHm77vfxsvsIN5Vuc=
-github.com/graphprotocol/cosmos-sdk v0.45.0-rc1.0.20231213102421-02b329ad4f10 h1:IG3bxK2vkeBBx474ggXVygnzOBRRYWclgXJ2jBpODfw=
-github.com/graphprotocol/cosmos-sdk v0.45.0-rc1.0.20231213102421-02b329ad4f10/go.mod h1:TBwostXJoseDG90/XEJqjt7tkIQ4udHSTsYaeHNog8g=
 github.com/graphprotocol/extractor-cosmos v0.1.1 h1:y1S64E6ZCbQMa9E3BmIcRmhhFZnh45gKTcQJzxwTk+Q=
 github.com/graphprotocol/extractor-cosmos v0.1.1/go.mod h1:b2UD7Z31psHvJwEnp+C5+icoNfxpqAgZfjkNpIaIdyM=
 github.com/graphprotocol/proto-cosmos v0.1.4 h1:MldVywLjjUqhGVmia34P0/6NMXLFKSeivfMQV3mJVSs=
 github.com/graphprotocol/proto-cosmos v0.1.4/go.mod h1:aHQD/4SLV++6Y/s5KLcRGzLSNEdglaRRWjRwydkBWAA=
-github.com/graphprotocol/tendermint v0.34.24-fh-test h1:bAsJMpV38djoRbf3jNCJxvzWezmTdRqRXdEZKvm3wPw=
-github.com/graphprotocol/tendermint v0.34.24-fh-test/go.mod h1:bLwVVEluPz4IgspmUFjQLCrqvBW1xmokqDjcNs3Zolc=
+github.com/graphprotocol/tendermint v0.34.24-fh-v6 h1:ADz3+1l5hxnn8hYsufDSKMo25Yt3QG5yjLNvb8so3Go=
+github.com/graphprotocol/tendermint v0.34.24-fh-v6/go.mod h1:tbUqFPn0xS4sHSb49zfPXbfbc2DJiORoCWMdH4wuzpM=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-middleware v1.2.2/go.mod h1:EaizFBKfUKtMIF5iaDEhniwNedqGo9FuLFzppDr3uwI=
 github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 h1:+9834+KizmvFV7pXQGSXQTsaWhq2GjuNUt0aUU0YBYw=
@@ -964,6 +962,8 @@ github.com/openzipkin/zipkin-go v0.2.2/go.mod h1:NaW6tEwdmWMaCDZzg8sh+IBNOxHMPnh
 github.com/ory/dockertest v3.3.5+incompatible h1:iLLK6SQwIhcbrG783Dghaaa3WPzGc+4Emza6EbVUUGA=
 github.com/ory/dockertest/v3 v3.10.0 h1:4K3z2VMe8Woe++invjaTB7VRyQXQy5UY+loujO4aNE4=
 github.com/ory/dockertest/v3 v3.10.0/go.mod h1:nr57ZbRWMqfsdGdFNLHz5jjNdDb7VVFnzAeW1n5N1Lg=
+github.com/osmosis-labs/cosmos-sdk v0.45.0-rc1.0.20230922030206-734f99fba785 h1:noyO/2kXPRafPfuOQQW3z1SYIvX5R+HogBH8t+ncwZQ=
+github.com/osmosis-labs/cosmos-sdk v0.45.0-rc1.0.20230922030206-734f99fba785/go.mod h1:toI9Pf+e5C4TuWAFpXfkxnkpr1RVFMK2qr7QMdkFrY8=
 github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3 h1:YlmchqTmlwdWSmrRmXKR+PcU96ntOd8u10vTaTZdcNY=
 github.com/osmosis-labs/go-mutesting v0.0.0-20221208041716-b43bcd97b3b3/go.mod h1:lV6KnqXYD/ayTe7310MHtM3I2q8Z6bBfMAi+bhwPYtI=
 github.com/osmosis-labs/ibc-apps/middleware/packet-forward-middleware/v4 v4.0.0-20231023074229-4b649a9d9cee h1:Ki30YyIgI1DNbGzR9zs9/Q+PxCHGq5VKfbyPZKQToL8=
