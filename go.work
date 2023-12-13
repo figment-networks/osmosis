@@ -13,3 +13,7 @@ use ./tests/cl-genesis-positions
 use .
 
 use ./x/epochs
+
+replace github.com/tendermint/tendermint => github.com/informalsystems/tendermint v0.34.24-fh-test
+
+replace github.com/cosmos/cosmos-sdk  => github.com/graphprotocol/cosmos-sdk firehose-osmosis-734f99f
