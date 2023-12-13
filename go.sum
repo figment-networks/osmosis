@@ -622,8 +622,8 @@ github.com/gostaticanalysis/nilerr v0.1.1/go.mod h1:wZYb6YI5YAxxq0i1+VJbY0s2YONW
 github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
 github.com/gostaticanalysis/testutil v0.4.0 h1:nhdCmubdmDF6VEatUNjgUZBJKWRqugoISdUv3PPQgHY=
 github.com/graph-gophers/graphql-go v1.3.0/go.mod h1:9CQHMSxwO4MprSdzoIEobiHpoLtHm77vfxsvsIN5Vuc=
-github.com/graphprotocol/cosmos-sdk v0.45.0-rc1.0.20231213161221-5fa9c197962e h1:URGubzNmlBdXLVFh04qL0SY5VJRZzCa/rhPn01hY4qw=
-github.com/graphprotocol/cosmos-sdk v0.45.0-rc1.0.20231213161221-5fa9c197962e/go.mod h1:y2zsLMZp7HDMYp5gtwQGHy+OELo29i7P0G27a70lI1E=
+github.com/graphprotocol/cosmos-sdk v0.20.1-osmo h1:M+9eJSe9HDyn7vpLIUULzh8t0PHTqAT/Swr8LK4oD7o=
+github.com/graphprotocol/cosmos-sdk v0.20.1-osmo/go.mod h1:TKpSTuNeYhNvPdHsjYjJXd664VfIabr3RqN/NE4CYGA=
 github.com/graphprotocol/tendermint v0.34.24-fh h1:gJdXrQjrPHQf2lWnI7G4RFkhFbNlKcTOS/QT/8xFR1Q=
 github.com/graphprotocol/tendermint v0.34.24-fh/go.mod h1:B0L897rRk1HKhEsJM6RUQqXK6mIrmKAZMRT+z1l2xwg=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
