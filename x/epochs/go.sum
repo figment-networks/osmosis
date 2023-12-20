@@ -784,6 +784,8 @@ github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5Kwzbycv
 github.com/felixge/httpsnoop v1.0.1/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
 github.com/felixge/httpsnoop v1.0.2 h1:+nS9g82KMXccJ/wp0zyRW9ZBHFETmMGtkk+2CTTrW4o=
 github.com/felixge/httpsnoop v1.0.2/go.mod h1:m8KPJKqk1gH5J9DgRY2ASl2lWCfGKXixSwevea8zH2U=
+github.com/figment-networks/proto-cosmos v0.1.0 h1:WMlKZ5QJPDQYvB9tvf7rqvv5YdnJKZ+hhcQFhzlMOfc=
+github.com/figment-networks/proto-cosmos v0.1.0/go.mod h1:bBynLkXMq/hMdsgNg0yEaksxSJkIk1hzPNTWBdetk5I=
 github.com/fogleman/gg v1.2.1-0.20190220221249-0403632d5b90/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
 github.com/fogleman/gg v1.3.0/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
 github.com/fortytw2/leaktest v1.3.0 h1:u8491cBMTQ8ft8aeV+adlcytMZylmA5nnwwkRZjI8vw=
@@ -1004,6 +1006,10 @@ github.com/gorilla/websocket v0.0.0-20170926233335-4201258b820c/go.mod h1:E7qHFY
 github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/gorilla/websocket v1.5.0 h1:PPwGk2jz7EePpoHN/+ClbZu8SPxiqlu12wZP/3sWmnc=
 github.com/gorilla/websocket v1.5.0/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
+github.com/graphprotocol/cometbft v0.37.4-v23-osmo-3-fh-utf8-fix h1:ObFge7UuHpO/JS/aQq2sYyNJZg9pQFk8dhRVBzbkrws=
+github.com/graphprotocol/cometbft v0.37.4-v23-osmo-3-fh-utf8-fix/go.mod h1:5oadR9o6WBvUOsysLj3Cin+C+461hMpCIgaA07QflNM=
+github.com/graphprotocol/extractor-cosmos v0.1.1 h1:y1S64E6ZCbQMa9E3BmIcRmhhFZnh45gKTcQJzxwTk+Q=
+github.com/graphprotocol/extractor-cosmos v0.1.1/go.mod h1:b2UD7Z31psHvJwEnp+C5+icoNfxpqAgZfjkNpIaIdyM=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-middleware v1.2.2/go.mod h1:EaizFBKfUKtMIF5iaDEhniwNedqGo9FuLFzppDr3uwI=
 github.com/grpc-ecosystem/go-grpc-middleware v1.4.0 h1:UH//fgunKIs4JdUbpDl1VZCDaL56wXCB/5+wF6uHfaI=
@@ -1245,8 +1251,6 @@ github.com/openzipkin/zipkin-go v0.2.1/go.mod h1:NaW6tEwdmWMaCDZzg8sh+IBNOxHMPnh
 github.com/openzipkin/zipkin-go v0.2.2/go.mod h1:NaW6tEwdmWMaCDZzg8sh+IBNOxHMPnhQw8ySjnjRyN4=
 github.com/ory/dockertest v3.3.5+incompatible h1:iLLK6SQwIhcbrG783Dghaaa3WPzGc+4Emza6EbVUUGA=
 github.com/ory/dockertest v3.3.5+incompatible/go.mod h1:1vX4m9wsvi00u5bseYwXaSnhNrne+V0E6LAcBILJdPs=
-github.com/osmosis-labs/cometbft v0.37.4-v23-osmo-3 h1:HJItohXCYHMTd1x938+zpxswkzdKFikHPz9xkHFtpBk=
-github.com/osmosis-labs/cometbft v0.37.4-v23-osmo-3/go.mod h1:Cmg5Hp4sNpapm7j+x0xRyt2g0juQfmB752ous+pA0G8=
 github.com/osmosis-labs/cosmos-sdk v0.47.5-v23-osmo-3 h1:d+0id4sMX9yiP5iMHK8rkv15MP12T+UfQn4XuBWzK/8=
 github.com/osmosis-labs/cosmos-sdk v0.47.5-v23-osmo-3/go.mod h1:4BNXIoS9XecywMSdPr/DIwCgH2/Qjyr2+qhrHu8YSEo=
 github.com/osmosis-labs/osmosis/osmomath v0.0.10-0.20240312200410-a7cc6376cdec h1:dro5fZ+cgvw1DTvMPDTe/vc6KVe3Rgk7RR0ghjoPRUw=
