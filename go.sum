@@ -622,8 +622,8 @@ github.com/gostaticanalysis/nilerr v0.1.1/go.mod h1:wZYb6YI5YAxxq0i1+VJbY0s2YONW
 github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
 github.com/gostaticanalysis/testutil v0.4.0 h1:nhdCmubdmDF6VEatUNjgUZBJKWRqugoISdUv3PPQgHY=
 github.com/graph-gophers/graphql-go v1.3.0/go.mod h1:9CQHMSxwO4MprSdzoIEobiHpoLtHm77vfxsvsIN5Vuc=
-github.com/graphprotocol/tendermint v0.34.24-fh h1:gJdXrQjrPHQf2lWnI7G4RFkhFbNlKcTOS/QT/8xFR1Q=
-github.com/graphprotocol/tendermint v0.34.24-fh/go.mod h1:B0L897rRk1HKhEsJM6RUQqXK6mIrmKAZMRT+z1l2xwg=
+github.com/graphprotocol/tendermint v0.34.24-fh-fixed h1:RTQfOwlfIhN1iu+qbW77IVbLrk1J+8Kh7Ya4+9mtMEI=
+github.com/graphprotocol/tendermint v0.34.24-fh-fixed/go.mod h1:B0L897rRk1HKhEsJM6RUQqXK6mIrmKAZMRT+z1l2xwg=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
 github.com/grpc-ecosystem/go-grpc-middleware v1.2.2/go.mod h1:EaizFBKfUKtMIF5iaDEhniwNedqGo9FuLFzppDr3uwI=
 github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 h1:+9834+KizmvFV7pXQGSXQTsaWhq2GjuNUt0aUU0YBYw=
