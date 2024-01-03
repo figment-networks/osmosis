@@ -403,7 +403,7 @@ replace (
 // github.com/osmosis-labs/osmosis/x/ibc-hooks => ./x/ibc-hooks
 )
 
-replace github.com/cometbft/cometbft => github.com/graphprotocol/cometbft v0.37.2-fh
+replace github.com/cometbft/cometbft => github.com/graphprotocol/cometbft v0.37.2-fh-utf8-fix
 
 // exclusion so we use v1.0.0
 exclude github.com/coinbase/rosetta-sdk-go v0.7.9

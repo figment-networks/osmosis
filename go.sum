@@ -1140,8 +1140,8 @@ github.com/gostaticanalysis/nilerr v0.1.1 h1:ThE+hJP0fEp4zWLkWHWcRyI2Od0p7DlgYG3
 github.com/gostaticanalysis/nilerr v0.1.1/go.mod h1:wZYb6YI5YAxxq0i1+VJbY0s2YONW0HU0GPE3+5PWN4A=
 github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
 github.com/gostaticanalysis/testutil v0.4.0 h1:nhdCmubdmDF6VEatUNjgUZBJKWRqugoISdUv3PPQgHY=
-github.com/graphprotocol/cometbft v0.37.2-fh h1:cgN59h9wQ/WYvOazkaa75yo1jUyiz/iUsHRUghJ8K6M=
-github.com/graphprotocol/cometbft v0.37.2-fh/go.mod h1:6YWwIYkR7Ebi/7YvxnrrGLStLp3Q7UAVGE0qw3lAjx0=
+github.com/graphprotocol/cometbft v0.37.2-fh-utf8-fix h1:eszgm/X/d06zP3yifOJ9ZJe3PJWpPZGu2BA6HyN/0a4=
+github.com/graphprotocol/cometbft v0.37.2-fh-utf8-fix/go.mod h1:6YWwIYkR7Ebi/7YvxnrrGLStLp3Q7UAVGE0qw3lAjx0=
 github.com/graphprotocol/extractor-cosmos v0.1.1 h1:y1S64E6ZCbQMa9E3BmIcRmhhFZnh45gKTcQJzxwTk+Q=
 github.com/graphprotocol/extractor-cosmos v0.1.1/go.mod h1:b2UD7Z31psHvJwEnp+C5+icoNfxpqAgZfjkNpIaIdyM=
 github.com/grpc-ecosystem/go-grpc-middleware v1.0.1-0.20190118093823-f849b5445de4/go.mod h1:FiyG127CGDf3tlThmgyCl78X/SZQqEOJBCDaAfeWzPs=
