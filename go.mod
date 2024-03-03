@@ -385,7 +385,7 @@ replace (
 
 	// cometbft is replaced to print custom app hash logs
 	// the graphprotocol fork also contains firehose instrumentation
-	github.com/cometbft/cometbft => github.com/graphprotocol/cometbft v0.37.4-v23-osmo-1-fh-utf8-fix
+	github.com/cometbft/cometbft => github.com/graphprotocol/cometbft v0.37.4-v23-osmo-1-fh-utf8-fix.2
 
 	// v1.0.0-beta.3 is incompatible, so we use v1.0.0-beta.2
 	github.com/cosmos/cosmos-proto => github.com/cosmos/cosmos-proto v1.0.0-beta.2
